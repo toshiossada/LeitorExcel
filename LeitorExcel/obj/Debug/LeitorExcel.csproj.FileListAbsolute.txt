@@ -1,0 +1,11 @@
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\bin\Debug\LeitorExcel.exe.config
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\bin\Debug\LeitorExcel.exe
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\bin\Debug\LeitorExcel.pdb
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\obj\Debug\LeitorExcel.csprojResolveAssemblyReference.cache
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\obj\Debug\LeitorExcel.Properties.Resources.resources
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\obj\Debug\LeitorExcel.csproj.GenerateResource.Cache
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\obj\Debug\LeitorExcel.csproj.CoreCompileInputs.cache
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\obj\Debug\LeitorExcel.exe
+c:\users\toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\obj\Debug\LeitorExcel.pdb
+C:\Users\Toshi\documents\visual studio 2017\Projects\LeitorExcel\LeitorExcel\bin\Debug\System.ValueTuple.dll
+C:\Users\Toshi\Documents\Visual Studio 2017\Projects\LeitorExcel\LeitorExcel\obj\Debug\LeitorExcel.frmGeradorScript.resources
